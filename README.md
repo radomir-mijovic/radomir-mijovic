@@ -6,5 +6,3 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... batomijovic4@gmail.com
 - 😄 Pronouns: ... Radomir
-
--->
