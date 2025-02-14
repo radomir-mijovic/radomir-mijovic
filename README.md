@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Radomir Mijovic, a full-stack developer passionate about creating seamless web experiences for all end-users. With a specialization in Python and Django, and vast experience across numerous successful roles, I bring a comprehensive skill set to every project, handling both front-end and back-end development with precision and care.
+I'm Radomir Mijovic, a full-stack developer passionate about creating seamless web experiences for all end-users. I bring a comprehensive skill set to every project, handling both front-end and back-end development with precision and care.
  
 I thrive in environments where I can tackle challenges head-on, and I enjoy collaborating with talented teams. My experience spans the full development lifecycle, guaranteeing a level of expertise in all aspects of most projects, and ensuring that all processes are thoughtfully designed and efficiently executed.
  
